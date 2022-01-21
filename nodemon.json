@@ -1,0 +1,5 @@
+{
+  "watch": ["src"],
+  "ext": ".ts,.js",
+  "exec": " DEBUG=dev:* ts-node ./src/app.ts"
+}
